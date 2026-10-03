@@ -7,25 +7,24 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Fairy-Tale Kingdom is a fantasy adventure game where the player explores a magical kingdom and collects enchanted items to defeat the Evil Queen.
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+The player is traveling through a magical kingdom that has been taken over by an Evil Queen. The player must explore different areas of the kingdom and collect six magical items before encountering her. If the player collects all six items before reaching the Evil Queen, they can defeat her and save the kingdom.
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. Village Square - Start room
+2. Enchanted Forest
+3. Fairy Garden
+4. Wizard's Tower
+5. Crystal Cave
+6. Royal Library
+7. Castle Courtyard
+8. Queen's Throne Room - Villain room
 
 Add more rooms if your design needs them.
 
@@ -34,20 +33,19 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. Magic Wand
+2. Fairy Dust
+3. Spell Book
+4. Crystal
+5. Golden Key
+6. Enchanted Sword
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
-
+The Evil Queen is the villain of the game and is located in the Queen's Throne Room. The player must avoid the Evil Queen until all six magical items have been collected. If the player enters the Queen's Throne Room before collecting all six items, the player loses the game.
 ## Storyboard and Map Check
 
 Before submitting, compare this storyboard with `game_map.drawio`.
